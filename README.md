@@ -106,7 +106,7 @@ void setupServiceLocator() {
 Clone the repository:
 
 ```bash
-git clone https://github.com/danielemad/Learnfy.git
+git clone https://github.com/danielemad/Learnfy_App.git
 ```
 
 Install dependencies:
