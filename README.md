@@ -88,29 +88,18 @@ void setupServiceLocator() {
 
 ## 📸 Screenshots
 
-### OnBoarding Screen
-![OnBoarding Screen](assets/screenshots/onboarding_screen.png)
+<div align="center">
 
-### Auth Screen
-![Auth Screen](assets/screenshots/auth_screen.png)
+  <img src="assets/screenshots/onboarding_screen.png" alt="OnBoarding Screen" width="250" />
+  <img src="assets/screenshots/auth_screen.png" alt="Auth Screen" width="250" />
+  <img src="assets/screenshots/home_screen.png" alt="Home Screen" width="250" />
+  <img src="assets/screenshots/cart_screen.png" alt="Cart Screen" width="250" />
+  <img src="assets/screenshots/course_details_screen.png" alt="Course Details" width="250" />
+  <img src="assets/screenshots/explore_screen.png" alt="Explore Screen" width="250" />
+  <img src="assets/screenshots/search_screen.png" alt="Search Screen" width="250" />
+  <img src="assets/screenshots/profile_screen.png" alt="Profile Screen" width="250" />
 
-### Home Screen
-![Home Screen](assets/screenshots/home_screen.png)
-
-### Cart Screen
-![Cart Screen](assets/screenshots/cart_screen.png)
-
-### Course Details
-![Course Details](assets/screenshots/course_details_screen.png)
-
-### Explore Screen
-![Explore Screen](assets/screenshots/explore_screen.png)
-
-### Search Screen
-![Search Screen](assets/screenshots/search_screen.png)
-
-### Profile Screen
-![Profile Screen](assets/screenshots/profile_screen.png)
+</div>
 
 ## 📦 Getting Started
 
