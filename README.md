@@ -135,7 +135,7 @@ This project was built for practicing:
 
 ---
 
-## 👨‍💻 Author
+## 📬 Contact
 
-**Daniel Guirguis**  
-Flutter Developer
+- GitHub: https://github.com/danielemad
+- LinkedIn: https://www.linkedin.com/in/daniel-emad-b554b6214
